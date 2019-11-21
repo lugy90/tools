@@ -1,0 +1,23 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "js tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugy90/tools.git"
+  },
+  "keywords": [
+    "js",
+    "toolset"
+  ],
+  "author": "lugy90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lugy90/tools/issues"
+  },
+  "homepage": "https://github.com/lugy90/tools#readme"
+}
